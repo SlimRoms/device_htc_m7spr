@@ -1,22 +1,17 @@
 [
   {
-    "repository": "slimroms/android_device_htc_msm8960-common",
-    "target_path": "device/htc/msm8960-common"
+    "repository": "SlimRoms/device_htc_msm8960-common",
+    "target_path": "device/htc/msm8960-common",
     "branch":      "jb4.2"
   },
   {
-    "repository": "slimroms/android_device_htc_m7-common",
-    "target_path": "device/htc/m7-common"
+    "repository": "SlimRoms/device_htc_m7-common",
+    "target_path": "device/htc/m7-common",
     "branch":      "jb4.2"
   },
   {
-    "repository": "slimroms/android_device_htc_m7wls",
-    "target_path": "device/htc/m7wls"
-    "branch":      "jb4.2"
-  }
-  {
-    "repository": "slimroms/android_kernel_htc_m7",
-    "target_path": "kernel/htc/m7"
+    "repository": "SlimRoms/kernel_htc_m7",
+    "target_path": "kernel/htc/m7",
     "branch":      "jb4.2"
   }
   {
