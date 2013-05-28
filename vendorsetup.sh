@@ -20,6 +20,6 @@
 # In particular, you can add lunch options with the add_lunch_combo
 # function: add_lunch_combo generic-eng
 
-add_lunch_combo slim_m7wls-userdebug
-add_lunch_combo slim_m7wls-eng
+add_lunch_combo slim_m7spr-userdebug
+add_lunch_combo slim_m7spr-eng
 
