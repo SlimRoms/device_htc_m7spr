@@ -10,8 +10,8 @@
     "branch":      "kk4.4"
   },
   {
-    "repository": "SlimRoms/android_kernel_htc_msm8960",
-    "target_path": "kernel/htc/msm8960",
+    "repository": "SlimRoms/kernel_htc_msm8960",
+    "target_path": "kernel/htc/msm8960"
     "branch":      "kk4.4"
   },
   {
@@ -32,6 +32,11 @@
   {
     "repository":  "SlimRoms/hardware_qcom_media-caf",
     "target_path": "hardware/qcom/media-caf",
+    "branch":      "kk4.4"
+  }
+  {
+    "repository": "SlimRoms/device_qcom_common",
+    "target_path": "device/qcom/common",
     "branch":      "kk4.4"
   }
 ]
